@@ -1,0 +1,7 @@
+{
+  "name": "Nebula Flow - AI Particle System",
+  "description": "A real-time, interactive 3D particle system powered by Three.js and Google Gemini. Describe an effect to generate it instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
